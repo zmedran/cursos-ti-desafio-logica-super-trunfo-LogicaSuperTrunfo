@@ -2,7 +2,7 @@
 
 Bem-vindo ao desafio "Super Trunfo - Países"! Este projeto envolve o desenvolvimento de um sistema para comparar cartas baseadas em atributos de cidades, dividido em três níveis: Novato, Aventureiro e Mestre. Em cada nível, novas funcionalidades e complexidades são adicionadas, permitindo um aprendizado progressivo.
 
-## 🎮 Nível Novato
+## 🏅 Nível Novato
 
 No nível Novato, você começará implementando a lógica básica de comparação entre cartas utilizando estruturas de decisão `if` e `if-else`.
 
@@ -21,7 +21,7 @@ No nível Novato, você começará implementando a lógica básica de comparaç�
 
 ---
 
-## 🛡️ Nível Aventureiro
+## 🏅 Nível Aventureiro
 
 No nível Aventureiro, você expandirá o sistema para incluir a comparação aninhada e a criação de um menu interativo usando `switch`.
 
@@ -36,7 +36,7 @@ No nível Aventureiro, você expandirá o sistema para incluir a comparação an
 
 ---
 
-## 🏆 Nível Mestre
+## 🏅 Nível Mestre
 
 No nível Mestre, o desafio se intensifica com a adição de funcionalidades avançadas, como menus dinâmicos e lógica de decisão complexa com operadores ternários.
 
